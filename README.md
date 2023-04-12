@@ -59,6 +59,6 @@ public class AppConfig {
 
 In this example, the `AppConfig` class is marked as a configuration class and the `OrderService` field is marked as a dependency. When the `AppConfig` object is instantiated, the `OrderService` dependency will be injected automatically.
 
-##Dependencies
--Java SE 8 or higher
--JAXB API (for XML configuration)
+# Dependencies
+- Java SE 8 or higher
+- JAXB API (for XML configuration)
