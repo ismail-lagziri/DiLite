@@ -1,4 +1,4 @@
-# DiLite
+# DiLite: A Lightweight Dependency Injection Framework
 
 DiLite is a minimalistic Dependency Injection (DI) framework, similar to Spring IOC. It allows developers to inject dependencies between different components of their application using XML configuration files or annotations.
 
